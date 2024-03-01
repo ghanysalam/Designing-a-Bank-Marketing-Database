@@ -54,3 +54,18 @@ They have supplied you with a csv file called `"bank_marketing.csv"`, which you 
 | `euribor_three_months` | `float` | Euro Interbank Offered Rate (euribor) three-month rate (daily indicator) | N/A |
 
 <br>
+
+## Project Overview
+
+This project outlines the steps involved in designing and implementing a bank marketing database. The provided resources, including a Jupyter Notebook, offer detailed instructions and code snippets for each task:
+
+1. Jupyter Notebook: This interactive document provides step-by-step guidance on cleaning the data, splitting it into separate tables. [notebook](https://github.com/ghanysalam/Designing-a-Bank-Marketing-Database/blob/main/notebook.ipynb) to see the project tasks and all expected output for each task.
+
+<br>
+
+---
+
+
+I'd love for you to visit my portfolio website to learn more about this project! You'll find a detailed explanation of the goals, methodology, and outcomes of the bank marketing database design process.
+
+Link to Portfolio Website: [Link to Portfolio Website](https://ghanysalam.github.io/Ghany_Portfolio/)https://ghanysalam.github.io/Ghany_Portfolio/)
